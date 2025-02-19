@@ -586,7 +586,7 @@ html {
     .toggler-line {
         width: 100%;
         height: 3px;
-        background-color: #ffcc00;
+        background-color: white; 
         border-radius: 2px;
     }
 
